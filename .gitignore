@@ -21,3 +21,12 @@ Thumbs.db
 *.parquet
 *.sql
 *.log
+
+# --- Otros archivos ---
+*.parquet
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.zip
