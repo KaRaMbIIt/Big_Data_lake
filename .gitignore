@@ -1,0 +1,23 @@
+# --- Entornos Virtuales ---
+venv/
+.venv/
+env/
+
+# --- Python (Caché y archivos compilados) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- VS Code ---
+.vscode/
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Bases de datos y archivos grandes  ---
+*.csv
+*.json
+*.parquet
+*.sql
+*.log
